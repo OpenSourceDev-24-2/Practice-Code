@@ -1,4 +1,4 @@
-package com.example.demo;
+/*package com.example.demo;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -16,3 +16,4 @@ public class HelloLombok {
 		System.out.println(helloLombok.getLombok());
 	}
 }
+*/
